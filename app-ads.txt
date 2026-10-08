@@ -1,3 +1,1 @@
-# app-ads.txt for magicroomgames.com
-# Replace the line below with your AdMob publisher ID (AdMob > Apps > View all apps > app-ads.txt > "How to set up app-ads.txt").
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-5858855171102122, DIRECT, f08c47fec0942fa0
