@@ -9,3 +9,15 @@ Static website for Magic Room, hosted on GitHub Pages.
 - `/app-ads.txt` AdMob authorized sellers file
 
 No build step. Edit the HTML and push to `main`.
+
+## DNS (Hostinger → GitHub Pages)
+
+| Type | Name | Value |
+|---|---|---|
+| A | @ | 185.199.108.153 |
+| A | @ | 185.199.109.153 |
+| A | @ | 185.199.110.153 |
+| A | @ | 185.199.111.153 |
+| CNAME | www | rodrigopecci.github.io |
+
+Remove Hostinger's default parking `A` record (`2.57.91.91`) and any existing `www` record. Keep the `MX` records (Hostinger Email).
